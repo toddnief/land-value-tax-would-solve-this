@@ -1,9 +1,3 @@
-A description of the directory structure, and a brief description of the purpose of each file and the number of lines of code in it. 
-
-You should have a separate directory for code written as part of this project, and a separate directory for code not written by a team mem- ber or not written as a part of this project. These should be clearly identified in your readme file. 
-
-Any other relevant information about your code.
-
 ## Notebooks
 
 The primary notebook is the `regression-notebook.ipynb`. This includes code that will load the City of Philadelphia's assessment data for tax year 2023 and perform regression on it.
